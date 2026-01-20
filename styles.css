@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f8f8f8;
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+}
+
+.BookBlock{
+	margin-top: 20px;
+}
+
+.container{
+	background-color: #ffffff;
+	padding: 11.5%;
+}
+button{
+	background-color: lightgreen;
+	color: white;
+	width: 100%;
+	border-style: none;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	width: 35%%;
+	height: 80%;
+	padding-left: 30%
+}
